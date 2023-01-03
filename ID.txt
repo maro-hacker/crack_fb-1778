@@ -34,3 +34,5 @@ maro
 1➠0➠5➠8➠1➠u➠0➠_➠a➠5➠8➠1 id bo yak rozh
 1➠1➠2➠4➠8➠u➠0➠_➠a➠1➠2➠4➠8 id chyo
 1➠0➠5➠9➠6➠u➠0➠_➠a➠5➠9➠6 id lo yak rozh 4:57
+1➠0➠2➠6➠5➠u➠0➠_➠a➠2➠6➠5 id loyak rozh 5:00
+1➠0➠7➠7➠2➠u➠0➠_➠a➠7➠7➠2 bo yak rozh
