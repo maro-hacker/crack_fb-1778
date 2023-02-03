@@ -86,3 +86,4 @@ u|0|_|a|5|0|7
 u|0|_|a|6|6|6
 u|0|_|a|5|7|7 bo yak mang
 u|0|_|a|2|5|3 Bo yak rozh
+u|0|_|a|1|2|4|8 id chyo
