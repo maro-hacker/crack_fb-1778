@@ -105,3 +105,4 @@ u✮0✮_✮a✮5✮6✮7
 u✮0✮_✮a✮1✮2✮6 Yak rozh
 u✮0✮_✮a✮3✮5✮9 Bo 2 sahat
 u✮0✮_✮a✮8✮8✮6
+u✮0✮_✮a✮1✮3✮3✮3 id bo yak rozh
